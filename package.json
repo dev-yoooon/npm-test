@@ -1,0 +1,14 @@
+{
+  "name": "yoooon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yoooon",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-autoprefixer": "^8.0.0"
+  }
+}
